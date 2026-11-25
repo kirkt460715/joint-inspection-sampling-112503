@@ -1,0 +1,3 @@
+{"id": "QA", "subject": "设备检查", "frames": ["F1", "F2"], "weekly_min": 5, "qual": "设备", "visit_minutes": 30, "independent_frames": true}
+{"id": "QB", "subject": "生产条件", "frames": ["F1"], "weekly_min": 6, "qual": "生产", "visit_minutes": 45, "independent_frames": false}
+{"id": "QC", "subject": "追溯票证", "frames": ["F2"], "weekly_min": 5, "qual": "票证", "visit_minutes": 25, "independent_frames": false}

@@ -1,0 +1,72 @@
+{"id": "L001", "firm": "Co001", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L002", "firm": "Co002", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L003", "firm": "Co003", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L004", "firm": "Co004", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "停业"}
+{"id": "L005", "firm": "Co005", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L006", "firm": "Co006", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L007", "firm": "Co007", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L008", "firm": "Co008", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L009", "firm": "Co009", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "停业"}
+{"id": "L010", "firm": "Co010", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L011", "firm": "Co011", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L012", "firm": "Co012", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L013", "firm": "Co013", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L014", "firm": "Co014", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "停业"}
+{"id": "L015", "firm": "Co015", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L016", "firm": "Co016", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L017", "firm": "Co017", "sector": "服务", "zone": "园区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L018", "firm": "Co018", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L019", "firm": "Co019", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "停业"}
+{"id": "L020", "firm": "Co020", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L021", "firm": "Co021", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L022", "firm": "Co022", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L023", "firm": "Co023", "sector": "服务", "zone": "园区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L024", "firm": "Co024", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "停业"}
+{"id": "L025", "firm": "Co025", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L026", "firm": "Co026", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L027", "firm": "Co027", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L028", "firm": "Co028", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L029", "firm": "Co029", "sector": "服务", "zone": "园区", "frames": ["F1"], "contact": "停业"}
+{"id": "L030", "firm": "Co030", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L031", "firm": "Co031", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L032", "firm": "Co032", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L033", "firm": "Co033", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L034", "firm": "Co034", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "停业"}
+{"id": "L035", "firm": "Co035", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L036", "firm": "Co036", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L037", "firm": "Co037", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L038", "firm": "Co038", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L039", "firm": "Co039", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "停业"}
+{"id": "L040", "firm": "Co040", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L041", "firm": "Co041", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L042", "firm": "Co042", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L043", "firm": "Co043", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L044", "firm": "Co044", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "停业"}
+{"id": "L045", "firm": "Co045", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L046", "firm": "Co046", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L047", "firm": "Co047", "sector": "服务", "zone": "园区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L048", "firm": "Co048", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L049", "firm": "Co001", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "停业"}
+{"id": "L050", "firm": "Co002", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L051", "firm": "Co003", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L052", "firm": "Co004", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L053", "firm": "Co005", "sector": "服务", "zone": "园区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L054", "firm": "Co006", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "停业"}
+{"id": "L055", "firm": "Co007", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L056", "firm": "Co008", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L057", "firm": "Co009", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L058", "firm": "Co010", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L059", "firm": "Co011", "sector": "服务", "zone": "园区", "frames": ["F1"], "contact": "停业"}
+{"id": "L060", "firm": "Co012", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L061", "firm": "Co013", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L062", "firm": "Co014", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "可联系"}
+{"id": "L063", "firm": "Co015", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "未联系"}
+{"id": "L064", "firm": "Co016", "sector": "食品", "zone": "北区", "frames": ["F2"], "contact": "停业"}
+{"id": "L065", "firm": "Co017", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L066", "firm": "Co018", "sector": "零部件", "zone": "东区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L067", "firm": "Co019", "sector": "食品", "zone": "北区", "frames": ["F1"], "contact": "可联系"}
+{"id": "L068", "firm": "Co020", "sector": "服务", "zone": "园区", "frames": ["F2"], "contact": "未联系"}
+{"id": "L069", "firm": "Co021", "sector": "零部件", "zone": "东区", "frames": ["F1"], "contact": "停业"}
+{"id": "L070", "firm": "Co022", "sector": "食品", "zone": "北区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L071", "firm": "Co023", "sector": "服务", "zone": "园区", "frames": ["F1", "F2"], "contact": "可联系"}
+{"id": "L072", "firm": "Co024", "sector": "零部件", "zone": "东区", "frames": ["F2"], "contact": "可联系"}

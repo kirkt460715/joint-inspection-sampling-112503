@@ -1,0 +1,110 @@
+{
+  "format": "jsonl",
+  "version": 1,
+  "tables": {
+    "registrants": {
+      "summary": "经营主体及场址名册，记录是否进入各专项名册",
+      "columns": {
+        "id": "场址",
+        "firm": "经营主体",
+        "sector": "行业层",
+        "zone": "片区",
+        "frames": "被列入的名册",
+        "contact": "停业、可联系或未联系"
+      },
+      "key": [
+        "id"
+      ],
+      "refs": {}
+    },
+    "program": {
+      "summary": "专项风险及覆盖要求",
+      "columns": {
+        "id": "专项",
+        "subject": "现场事项",
+        "frames": "适用抽样框",
+        "weekly_min": "每周最低完成或可兑现安排",
+        "qual": "人员能力",
+        "visit_minutes": "访问核算分钟",
+        "independent_frames": "框之间独立证据"
+      },
+      "key": [
+        "id"
+      ],
+      "refs": {}
+    },
+    "draws": {
+      "summary": "按周、专项与框记录原始抽中机会",
+      "columns": {
+        "id": "抽取行",
+        "site": "场址",
+        "program": "专项",
+        "frame": "抽样名册或复查来源",
+        "week": "周一起日",
+        "p": "当次已知抽中概率",
+        "reason": "随机、替补或必查",
+        "replacement_for": "被替换的抽取行，可空"
+      },
+      "key": [
+        "id"
+      ],
+      "refs": {
+        "site": "registrants.id",
+        "program": "program.id"
+      }
+    },
+    "findings": {
+      "summary": "完成和未完成到访记录，保留产生该发现的依据",
+      "columns": {
+        "id": "发现",
+        "draw": "相应抽取、强查或替补行",
+        "at": "实际或尝试到访时间",
+        "visit": "实际访问组合",
+        "finding": "达标、有风险、停业、未遇或未安排",
+        "severity": "现场风险度，可空",
+        "followup_by": "强制复查日期，可空"
+      },
+      "key": [
+        "id"
+      ],
+      "refs": {
+        "draw": "draws.id"
+      }
+    },
+    "staff": {
+      "summary": "安排周可用的资质与访问窗口",
+      "columns": {
+        "id": "人员班次",
+        "worker": "人员编号",
+        "skills": "持有资质",
+        "zone": "可访问片区",
+        "from": "起时",
+        "to": "止时",
+        "available_minutes": "上门分钟限制"
+      },
+      "key": [
+        "id"
+      ],
+      "refs": {}
+    },
+    "appointments": {
+      "summary": "对企业已通知的检查义务，以及临时变动",
+      "columns": {
+        "id": "预约或变动",
+        "draw": "通知对应义务",
+        "site": "通知场址",
+        "from": "可到时段起",
+        "to": "可到时段止",
+        "event_at": "消息到达",
+        "kind": "已发计划、待确认或取消"
+      },
+      "key": [
+        "id"
+      ],
+      "refs": {
+        "draw": "draws.id",
+        "site": "registrants.id"
+      }
+    }
+  }
+}
